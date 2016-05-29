@@ -6,3 +6,6 @@ Xcode C++ project gathering web applications interfacing to Jenkins testing
 http://www.rjmprogramming.com.au/Mac/Jenkins/jenkins_xcode-348of.jpg
 ... and the Xode ideas are shown in tutorial ...
 http://www.rjmprogramming.com.au/ITblog/xcode-c-web-applications-primer-tutorial/
+... and how this fits in with Jenkins is explained at ...
+http://www.rjmprogramming.com.au/ITblog/jenkins-and-xcode-c-project-primer-tutorial/
+
